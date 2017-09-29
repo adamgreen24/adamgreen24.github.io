@@ -2,7 +2,7 @@ body {
 	background:white;
 	font-family: 'Bitter', serif;
 	background-color:black	;
-	background-image:Dark.gif;
+	background-image: url(Dark.gif);
 }
 a {
 	color:aqua;
